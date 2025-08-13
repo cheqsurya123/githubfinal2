@@ -1,1 +1,1 @@
-console.log("racing event goint to finish");
+console.log("prize distribution for the winners");
