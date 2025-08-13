@@ -1,1 +1,1 @@
-console.log("starting a racing event");
+console.log("racing event goint to finish");
